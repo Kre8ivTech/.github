@@ -40,7 +40,6 @@ Founder & Visionary **Jeremiah Castillo** is a retired U.S. Air Force veteran wi
 | **KT-Portal** | Multi-tenant client portal with ticketing, invoicing, contracts, a knowledge base, and role-based access. |
 | **Kre8ivLabs AI** | Automated website generation. |
 | **OpsAgenda** | A clear, prioritized operational agenda from email and calendar, every morning. |
-| **AI Morning Brief** | Turns Microsoft 365 calendar and email into a prioritized daily task list. |
 
 ## How we work
 
