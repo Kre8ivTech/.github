@@ -39,7 +39,7 @@ Founder & Visionary **Jeremiah Castillo** is a retired U.S. Air Force veteran wi
 | --- | --- |
 | **KT-Portal** | Multi-tenant client portal with ticketing, invoicing, contracts, a knowledge base, and role-based access. |
 | **Kre8ivLabs AI** | Automated website generation. |
-| **OpsAgenda** | A clear, prioritized operational agenda from email and calendar, every morning. |
+| **OpsAgenda** | A daily brief built from your connected productivity tools that prioritizes tasks and shows your current capacity. |
 
 ## How we work
 
@@ -68,7 +68,7 @@ Next.js and TypeScript. Supabase and Postgres. Vercel, AWS, and Docker.
 Public repositories from the studio:
 
 - **[client-portal](https://github.com/Kre8ivTech/client-portal)** — KT-Portal. The multi-tenant client portal.
-- **[ops-agenda](https://github.com/Kre8ivTech/ops-agenda)** — OpsAgenda. The morning operational agenda from email and calendar.
+- **[ops-agenda](https://github.com/Kre8ivTech/ops-agenda)** — OpsAgenda. A daily brief built from your connected productivity tools that prioritizes tasks and shows your current capacity.
 - **[ai-blogger](https://github.com/Kre8ivTech/ai-blogger)** — WordPress plugin (GPL v2 or later) that generates SEO-oriented marketing posts, featured images, and optional social posts.
 
 ## Work with us
