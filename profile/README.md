@@ -57,7 +57,15 @@ The **8** in our name becomes a continuous loop: creativity and engineering, mov
 
 ## Around here on GitHub
 
-**[SiteCheck](https://github.com/Kre8ivTech/sitecheck)** is our MIT-licensed website auditing tool. Check accessibility, internal links, page metadata, and configured journeys, then share a report with screenshots and clear next steps. **[Explore the sample report →](https://kre8ivtech.github.io/sitecheck/)**
+### Try SiteCheck
+
+**[Run a free website scan →](https://sitecheck.kre8ivtech.com)**
+
+SiteCheck is our MIT-licensed website auditing tool. Enter a public website URL to check common accessibility issues, internal links, and page metadata, then view findings, screenshots, and practical next steps. No account needed.
+
+The web quick scan covers up to **3 pages and 20 internal links**. Reports are private to the browser that created them and expire after one hour; download HTML or JSON to keep a copy. Automated checks are a starting point and do not certify accessibility compliance.
+
+**[View the source & self-host](https://github.com/Kre8ivTech/sitecheck)** · **[Explore a sample report](https://kre8ivtech.github.io/sitecheck/)**
 
 This is where we share public projects, experiments, and contributions to the tools we use. Each repository explains its own purpose, setup, and license. Forks credit the upstream projects they build on.
 
